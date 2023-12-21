@@ -1,0 +1,24 @@
+/* Footer.css */
+
+.footer {
+    display: flex;
+    justify-content: space-around; /* Adjust as needed */
+    background-color: #f0f0f0; /* Set the background color as needed */
+    padding: 20px;
+  }
+  
+  .section1, .section2 {
+    flex: 1; /* Equal width for both sections */
+    text-align: center; /* Center the content */
+  }
+  
+  .footer-contact {
+    margin-top: 10px; /* Adjust the margin as needed */
+  }
+  
+  .socials {
+    margin-top: 10px; /* Adjust the margin as needed */
+  }
+  
+  /* Add additional styles as needed */
+  
